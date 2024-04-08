@@ -14,7 +14,10 @@ Two Parts
 
 See related repos on end
 
-* AUTOMATED DOWNLOAD AND DECODE
+github                                                                                                                            
+https://tinyurl.com/43bj9bnk                                                                                                      
+https://github.com/rogerjdeangelis/utl-r-python-upload-and-programatically-download-binary-files-in-github-using-base64-encoding  
+
 
 github
 mtcars.b64
